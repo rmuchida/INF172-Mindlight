@@ -306,5 +306,18 @@ button a{
 .footer .container-footer .box a{
     display: block;
     font-size: 15px;
+    color: rgb(41, 39, 39);
     padding: 1rem 0;
+}
+
+.logo-pic{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.logo {
+    display: flex;
+    flex-wrap: wrap;
 }
